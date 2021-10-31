@@ -1,15 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ProGitForProgrammers
+﻿public class program
 {
-    class Program
+    public void PrintHello()
     {
-        static void Main(string[] args)
-        {
-        }
+        Console.WriteLine("Hello World");
     }
 }
